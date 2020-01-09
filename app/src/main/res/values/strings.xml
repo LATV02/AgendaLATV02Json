@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AgendaLATV02Json</string>
+    <string name="titulo1">AGENDA</string>
+    <string name="boton1">Agregar</string>
+    <string name="boton2">Mostrar</string>
+    <string name="titulo2">Acerca de...</string>
+    <string name="titulo3">Agregar datos</string>
+    <string name="boton3">Volver menu</string>
+    <string name="titulo4">LISTA CONTACTOS</string>
+    <string name="boton4">Mostrar</string>
+    <string name="btnlistar">LISTAR</string>
+    <string name="btnreturn">regresar</string>
+    <string name="btnvolver">regresar</string>
+</resources>
